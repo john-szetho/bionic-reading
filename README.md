@@ -1,2 +1,5 @@
 # bionic-reading
-A Chrome Extension for Bionic Reading on ANY website!
+JS version of the bionic reading Google Chrome extension
+
+Credit:
+https://github.com/ansh/bionic-reading
