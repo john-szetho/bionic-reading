@@ -46,3 +46,12 @@ function setPageBackgroundColor() {
     // document.body.style.backgroundColor = color;
   });
 }
+
+// When the button is clicked, set button colour to activeColor
+// add event listener to button
+// when button is clicked toggle class
+
+changeColor.addEventListener("click", async () => {
+  changeColor.classList.toggle('hide');
+  console.log('Background color set to %activeColor', `color: ${activeColor}`);
+});
